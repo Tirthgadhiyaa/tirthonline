@@ -1,0 +1,38 @@
+import 'package:flutter/material.dart';
+
+Widget get custSpace2Y => const SizedBox(height: 2);
+Widget get custSpace4Y => const SizedBox(height: 4);
+Widget get custSpace5Y => const SizedBox(height: 5);
+Widget get custSpace6Y => const SizedBox(height: 6);
+Widget get custSpace8Y => const SizedBox(height: 8);
+Widget get custSpace10Y => const SizedBox(height: 10);
+Widget get custSpace13Y => const SizedBox(height: 13);
+Widget get custSpace15Y => const SizedBox(height: 15);
+Widget get custSpace16Y => const SizedBox(height: 16);
+Widget get custSpace20Y => const SizedBox(height: 20);
+Widget get custSpace25Y => const SizedBox(height: 25);
+Widget get custSpace30Y => const SizedBox(height: 30);
+Widget get custSpace35Y => const SizedBox(height: 35);
+Widget get custSpace40Y => const SizedBox(height: 40);
+Widget get custSpace50Y => const SizedBox(height: 50);
+Widget get custSpace70Y => const SizedBox(height: 70);
+Widget get custSpace90Y => const SizedBox(height: 90);
+Widget get custSpace150Y => const SizedBox(height: 110);
+Widget get custSpace110Y => const SizedBox(height: 150);
+
+Widget get custSpace2X => const SizedBox(width: 2);
+Widget get custSpace4X => const SizedBox(width: 4);
+Widget get custSpace5X => const SizedBox(width: 5);
+Widget get custSpace6X => const SizedBox(width: 6);
+Widget get custSpace8X => const SizedBox(width: 8);
+Widget get custSpace10X => const SizedBox(width: 10);
+Widget get custSpace15X => const SizedBox(width: 15);
+Widget get custSpace16X => const SizedBox(width: 16);
+Widget get custSpace20X => const SizedBox(width: 20);
+Widget get custSpace25X => const SizedBox(width: 25);
+Widget get custSpace30X => const SizedBox(width: 30);
+Widget get custSpace50X => const SizedBox(width: 50);
+Widget get custSpace70X => const SizedBox(width: 70);
+Widget get custSpace90X => const SizedBox(width: 90);
+Widget get custSpace110X => const SizedBox(width: 110);
+Widget get custSpace150X => const SizedBox(width: 150);
