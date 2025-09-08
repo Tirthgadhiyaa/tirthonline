@@ -1,0 +1,1 @@
+// This file will be a copy of seller_detail_screen.dart, adapted for buyers (users). 
